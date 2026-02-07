@@ -11,7 +11,7 @@
 
   <p><em>Transform your resume into an ATS-friendly document with intelligent scoring and optimization suggestions</em></p>
 
-  <p><a href="demo/Demo Video.mp4">View Demo Video</a></p>
+  <p><em>Demo video link :- https://drive.google.com/file/d/1d8MkNgrjnBJXny7US_pcIzmFDENqmiT9/view?usp=drive_link</em></p>
 </div>
 
 ---
